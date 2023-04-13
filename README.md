@@ -4,7 +4,8 @@
 This is a stationary management system that allows users to manage their stock, sales, and customer data. It includes the following modules:
 ![image](https://user-images.githubusercontent.com/85940284/231784007-7cdc7614-923e-4e33-85b0-dbbb61f166d7.png)
 
-#Stock Management: 
+# Stock Management: 
+
 Users can access three tables in the stock module: stock inward report, stock outward report, and net stock report. The stock inward report displays purchased stock along with quantity, purchased price, date of purchase, and total amount spent on each product. The stock outward report displays the amount of products sold along with their sale price and total amount earned on each product. The net stock report shows the remaining stock and provides an alert if minimum stock levels are reached. It also includes a profit/loss column to help users track their profits and losses.
 ![image](https://user-images.githubusercontent.com/85940284/231784275-10c40345-a7ac-4b1f-b962-b4d1d267c917.png)
 
